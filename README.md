@@ -1,6 +1,18 @@
 # product_ecommerce
 
+Download gradle 
+
+https://gradle.org/install/
+
+Download Oracle 
+
+https://www.oracle.com/database/technologies/xe-downloads.html
+
+
 Setup data model using the sql/ folder scripts.
+
+Master tables are provided
+
 I have used oracle db config in the application.properties in the project.
 
 Oracle settings
